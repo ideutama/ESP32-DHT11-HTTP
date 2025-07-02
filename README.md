@@ -1,4 +1,5 @@
 ESP32 - DHT11 dengan Protokol HTTTP
+Alat ini berfungsi untuk melakukan pencatatan suhu dan kelembapan di suatu tempat, kemudian data yang didapat bisa diolah 
 
 ESP32 VS DHT11 PIN
 ESP32 3V3 --> VCC DHT11
